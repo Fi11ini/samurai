@@ -16,7 +16,7 @@ function App() {
               </div>
           </nav>
           <div className="content">
-              Main content dfdfdfdfdf
+              Main content
           </div>
       </div>
   );

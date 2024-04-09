@@ -16,7 +16,7 @@ function App() {
               </div>
           </nav>
           <div className="content">
-              Main content
+              Main content git git
           </div>
       </div>
   );

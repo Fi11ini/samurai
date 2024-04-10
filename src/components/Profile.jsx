@@ -1,3 +1,6 @@
+
+import './Profile.css'
+
 export const Profile = () => {
     return <div className="content">
         <div>
